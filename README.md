@@ -1,6 +1,6 @@
 # Challenge_12
 
-Create a Logistic Regression Model with the Original Data
+Predict a Logistic Regression Model with Resampled Training Data
 
 ## Overview of the Analysis
 
